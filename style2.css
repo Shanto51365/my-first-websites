@@ -1,0 +1,68 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.name{
+    color: rgb(231, 137, 13);
+}
+h1{
+    font-size: 50px;
+}
+.top{
+    display: flex;
+    margin: 10%  15%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2px;
+}
+.half-width img{
+    width: 50%;
+   
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato);
+    color: white;
+    font-weight: 700;
+    background-color:red;
+    padding: 20px   60px;
+    border-radius: 10px;
+    }
+    .half-width img{
+        width: 70%;
+    }
+    .middle{
+        display: flex;
+    margin: 10%  15%;
+    }
+    .color{
+        color: orangered;
+    }
+    .center{
+        text-align: center;}
+
+    .power{
+    border-radius: 25px;
+    width: 35%;
+    box-shadow: 10px    10px    40px    gray;
+    margin: 1%;
+    padding: 20px;
+    }
+    .image{
+        display: flex;
+    }
+    .power  img{
+        width: 100%;
+    }
+    .work{
+        background-image: url(shapes/Group_33094_1.png);
+        color: white;
+        font: 700;
+    }
+    .bg{
+        text-align: center;
+        background-image: url(shapes/Group_33094_1.png);
+        border-image-width: 60%;
+        
+
+    }
