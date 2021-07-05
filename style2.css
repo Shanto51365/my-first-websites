@@ -16,15 +16,14 @@ h1{
     padding-left: 2px;
 }
 .half-width img{
-    width: 50%;
+    width: 80%;
    
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(tomato);
+    background-image: linear-gradient(orange, tomato);
     color: white;
     font-weight: 700;
-    background-color:red;
     padding: 20px   60px;
     border-radius: 10px;
     }
@@ -59,10 +58,26 @@ h1{
         color: white;
         font: 700;
     }
-    .bg{
-        text-align: center;
-        background-image: url(shapes/Group_33094_1.png);
-        border-image-width: 60%;
-        
-
+    .bg img{
+        width: 70%;
+        margin: 10%;
+        margin-left: 15%;
     }
+    body{
+        margin: 10%;
+    }
+    .email{
+        text-align: center;
+        color: grey;
+    }
+    .email  h1{
+        font: 200;
+    }
+    .icons{
+        display: flex;
+        margin-left: 40%;
+    }
+    .icons  img{
+        width: 50%;
+    }
+   
